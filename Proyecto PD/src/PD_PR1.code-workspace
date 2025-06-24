@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"name": "PD_PR1",
+			"path": "../../PD_PR1"
+		},
+		{
+			"name": "PD_PR2",
+			"path": "../../PD_PR2"
+		},
+		{
+			"name": "PD_PR3",
+			"path": "../../PD_PR3"
+		},
+		{
+			"name": "PD_PR4",
+			"path": "../../PD_PR4"
+		},
+		{
+			"name": "PD_PR5",
+			"path": "../../PD_PR5"
+		},
+		{
+			"name": "PD_PR6",
+			"path": "../../PD_PR6"
+		},
+		{
+			"name": "PD_PR7",
+			"path": "../../PD_PR7"
+		},
+		{
+			"name": "PD_PR8",
+			"path": "../../PD_PR8"
+		},
+		{
+			"name": "Proyecto PD",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
